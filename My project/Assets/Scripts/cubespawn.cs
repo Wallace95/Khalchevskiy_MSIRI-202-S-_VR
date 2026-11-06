@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class cubespawn : MonoBehaviour
 {
-    private string[] cubee = { "Куб 0", "Куб 1", "Куб 2", "Куб 3", "куб 4", "куб 5" };
+    private string[] cubee = { "Куб 0", "Куб 1", "Куб 2", "Куб 3", "Куб 4", "Куб 5","Куб 6","Куб 7" };
 
     void Start()
     {
